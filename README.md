@@ -1,4 +1,4 @@
-👋 Hi, I'm Abitha Thomas
+## 👋 Hi, I'm Abitha Thomas
 
 ## 🐍 Aspiring Python Full Stack Developer
 
